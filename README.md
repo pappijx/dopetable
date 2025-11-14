@@ -168,6 +168,82 @@ When marking characters as viewed/unviewed:
 - Updates are written to the file via Node.js file system API
 - Data persists between server restarts
 
+## Testing
+
+This project includes comprehensive test coverage using Vitest and React Testing Library.
+
+### Test Structure
+
+All tests are located in the `tests` directory, mirroring the application structure:
+
+```
+tests/
+├── components/
+│   ├── character-table/
+│   │   ├── character-columns.test.tsx
+│   │   ├── character-health-filter.test.tsx
+│   │   └── character-table-actions.test.tsx
+│   ├── navbar.test.tsx
+│   └── theme-toggle.test.tsx
+├── stores/
+│   └── table-store.test.ts
+├── setup-test-environment.ts
+└── react-test-utils.tsx
+```
+
+### Running Tests
+
+**Run all tests (verbose output):**
+```bash
+npm test
+```
+
+**Run tests in watch mode:**
+```bash
+npm run test:watch
+```
+
+**Run tests with UI (recommended for development):**
+```bash
+npm run test:ui
+```
+This opens a beautiful web interface (typically at `http://localhost:51204/__vitest__/`) where you can:
+- View all test files and their results
+- See test coverage visualization
+- Filter and search tests
+- Re-run specific tests
+- Debug failing tests with detailed error messages
+
+**Generate test coverage report:**
+```bash
+npm run test:coverage
+```
+Coverage reports are generated in the `coverage` directory with HTML, JSON, and text formats.
+
+### Test Coverage
+
+Current test coverage includes:
+
+- **Component Tests**:
+  - CharacterTableActions (9 tests) - Button states, loading, user interactions
+  - CharacterHealthFilter (10 tests) - Dropdown menu, filters, callbacks
+  - CharacterColumns (12 tests) - Column configuration and ordering
+  - ThemeToggle (6 tests) - Theme switching functionality
+  - Navbar (9 tests) - Layout and rendering
+
+- **Store Tests**:
+  - Zustand table-store (25 tests) - State management, API calls, optimistic updates, error handling
+
+**Total: 71 tests across 6 test files**
+
+### Testing Best Practices
+
+1. **Use Vitest UI** for the best development experience
+2. **Run tests in watch mode** while developing new features
+3. **Check coverage** before committing to ensure adequate test coverage
+4. Tests use `@/` alias for imports to maintain consistency with the app
+5. All tests follow the Arrange-Act-Assert pattern
+
 ## Building for Production
 
 ```bash
