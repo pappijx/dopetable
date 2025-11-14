@@ -21,6 +21,18 @@ export const createCharacterColumns = (
   healthFilterProps?: CharacterHealthFilterProps,
 ): ColumnDef<Character>[] => [
   {
+    id: "serialNumber",
+    header: () => <div className="text-center">#</div>,
+    cell: ({ row }) => (
+      <div className="text-center text-muted-foreground text-sm">
+        #{row.index + 1}
+      </div>
+    ),
+    enableSorting: false,
+    enableHiding: false,
+    size: 60,
+  },
+  {
     id: "select",
     header: () => {
       const allSelected =

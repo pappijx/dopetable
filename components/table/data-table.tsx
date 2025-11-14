@@ -176,16 +176,15 @@ export function DataTable<TData>({
       </div>
       <div className="flex items-center justify-between text-sm text-muted-foreground">
         <div>
-          Showing {virtualRows.length > 0 ? virtualRows[0].index + 1 : 0} to{" "}
-          {virtualRows.length > 0
-            ? Math.min(
-                virtualRows[virtualRows.length - 1].index + 1,
-                rows.length,
-              )
-            : 0}{" "}
-          of {rows.length} rows
-          {rows.length < data.length && (
-            <span className="ml-1">(filtered from {data.length} total)</span>
+          {rows.length > 0 ? (
+            <>
+              Showing {rows.length} row{rows.length !== 1 ? 's' : ''}
+              {rows.length < data.length && (
+                <span className="ml-1">(filtered from {data.length} total)</span>
+              )}
+            </>
+          ) : (
+            'No rows'
           )}
         </div>
       </div>
