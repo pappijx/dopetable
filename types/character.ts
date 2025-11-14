@@ -4,6 +4,7 @@ export interface Character {
   location: Location;
   health: HealthStatus;
   power: number; // 100-10000
+  viewed?: boolean; // Track if character has been viewed
 }
 
 export type Location = 'Konoha' | 'Suna' | 'Kiri' | 'Iwa' | 'Kumo';

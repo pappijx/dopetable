@@ -12,6 +12,7 @@ export function CharacterTableContainer() {
   const {
     characters,
     isLoading,
+    isUpdatingViewed,
     error,
     searchQuery,
     healthFilters,
@@ -132,6 +133,7 @@ export function CharacterTableContainer() {
       >
         <CharacterTableActions
           selectedCount={selectedIds.size}
+          isLoading={isUpdatingViewed}
           onMarkAsViewed={markAsViewed}
           onMarkAsUnviewed={markAsUnviewed}
         />

@@ -6,6 +6,7 @@ interface TableState {
   // Data
   characters: Character[];
   isLoading: boolean;
+  isUpdatingViewed: boolean;
   error: string | null;
 
   // Filters
@@ -38,6 +39,7 @@ export const useTableStore = create<TableState>()(
       // Initial state
       characters: [],
       isLoading: false,
+      isUpdatingViewed: false,
       error: null,
       searchQuery: '',
       healthFilters: new Set(),
@@ -54,7 +56,16 @@ export const useTableStore = create<TableState>()(
             throw new Error('Failed to fetch characters');
           }
           const data = await response.json();
-          set({ characters: data, isLoading: false });
+
+          // Build viewedIds set from character data
+          const viewedIds = new Set<string>();
+          data.forEach((char: Character) => {
+            if (char.viewed) {
+              viewedIds.add(char.id);
+            }
+          });
+
+          set({ characters: data, viewedIds, isLoading: false });
         } catch (error) {
           set({
             error: error instanceof Error ? error.message : 'Unknown error',
@@ -125,24 +136,99 @@ export const useTableStore = create<TableState>()(
       clearSelection: () => set({ selectedIds: new Set() }),
 
       // Mark as viewed/unviewed
-      markAsViewed: () => {
-        const { selectedIds, viewedIds } = get();
-        console.log('Marked as viewed:', Array.from(selectedIds));
+      markAsViewed: async () => {
+        const { selectedIds, viewedIds, characters } = get();
+        const ids = Array.from(selectedIds);
+        console.log('Marked as viewed:', ids);
+
+        // Set loading state
+        set({ isUpdatingViewed: true });
+
+        // Optimistically update UI - both viewedIds and characters array
+        const updatedViewedIds = new Set([...viewedIds, ...selectedIds]);
+        const updatedCharacters = characters.map((char) =>
+          selectedIds.has(char.id) ? { ...char, viewed: true } : char
+        );
+
         set({
-          viewedIds: new Set([...viewedIds, ...selectedIds]),
+          viewedIds: updatedViewedIds,
+          characters: updatedCharacters,
           selectedIds: new Set(),
         });
+
+        try {
+          const response = await fetch('/api/characters', {
+            method: 'PATCH',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ ids, viewed: true }),
+          });
+
+          if (!response.ok) {
+            throw new Error('Failed to update viewed status');
+          }
+          // Success - no need to refetch, already updated locally
+          set({ isUpdatingViewed: false });
+        } catch (error) {
+          console.error('Error marking as viewed:', error);
+          // Revert optimistic update on error
+          const revertedViewed = new Set(viewedIds);
+          ids.forEach((id) => revertedViewed.delete(id));
+          const revertedCharacters = characters.map((char) =>
+            selectedIds.has(char.id) ? { ...char, viewed: false } : char
+          );
+          set({
+            viewedIds: revertedViewed,
+            characters: revertedCharacters,
+            isUpdatingViewed: false,
+          });
+        }
       },
 
-      markAsUnviewed: () => {
-        const { selectedIds, viewedIds } = get();
-        console.log('Marked as unviewed:', Array.from(selectedIds));
-        const newViewed = new Set(viewedIds);
-        selectedIds.forEach((id) => newViewed.delete(id));
+      markAsUnviewed: async () => {
+        const { selectedIds, viewedIds, characters } = get();
+        const ids = Array.from(selectedIds);
+        console.log('Marked as unviewed:', ids);
+
+        // Set loading state
+        set({ isUpdatingViewed: true });
+
+        // Optimistically update UI - both viewedIds and characters array
+        const updatedViewedIds = new Set(viewedIds);
+        selectedIds.forEach((id) => updatedViewedIds.delete(id));
+        const updatedCharacters = characters.map((char) =>
+          selectedIds.has(char.id) ? { ...char, viewed: false } : char
+        );
+
         set({
-          viewedIds: newViewed,
+          viewedIds: updatedViewedIds,
+          characters: updatedCharacters,
           selectedIds: new Set(),
         });
+
+        try {
+          const response = await fetch('/api/characters', {
+            method: 'PATCH',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ ids, viewed: false }),
+          });
+
+          if (!response.ok) {
+            throw new Error('Failed to update viewed status');
+          }
+          // Success - no need to refetch, already updated locally
+          set({ isUpdatingViewed: false });
+        } catch (error) {
+          console.error('Error marking as unviewed:', error);
+          // Revert optimistic update on error
+          const revertedCharacters = characters.map((char) =>
+            selectedIds.has(char.id) ? { ...char, viewed: true } : char
+          );
+          set({
+            viewedIds: new Set([...viewedIds, ...ids]),
+            characters: revertedCharacters,
+            isUpdatingViewed: false,
+          });
+        }
       },
     }),
     { name: 'TableStore' }

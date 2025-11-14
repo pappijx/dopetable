@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
 import type { Character, HealthStatus } from "@/types/character";
 import type { ColumnDef } from "@tanstack/react-table";
-import { ChevronDown, ChevronUp } from "lucide-react";
+import { ChevronDown, ChevronUp, Eye } from "lucide-react";
 import {
   CharacterHealthFilter,
   type CharacterHealthFilterProps,
@@ -52,7 +52,16 @@ export const createCharacterColumns = (
     accessorKey: "name",
     header: "Name",
     cell: ({ row }) => (
-      <div className="font-medium text-foreground">{row.getValue("name")}</div>
+      <div className="flex items-center gap-2">
+        <div className="font-medium text-foreground">
+          {row.getValue("name")}
+        </div>
+        {row.original.viewed && (
+          <p className="h-4 w-4 text-muted-foreground" aria-label="Viewed">
+            (Read)
+          </p>
+        )}
+      </div>
     ),
     size: 200,
   },
