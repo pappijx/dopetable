@@ -13,7 +13,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 6205,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0003",
@@ -21,7 +21,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 2559,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0004",
@@ -29,7 +29,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2449,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0005",
@@ -37,7 +37,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 8776,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0006",
@@ -45,7 +45,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1546,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0007",
@@ -53,7 +53,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 6501,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0008",
@@ -61,7 +61,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 735,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0009",
@@ -69,7 +69,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 3919,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0010",
@@ -77,7 +77,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1054,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0011",
@@ -85,7 +85,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8974,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0012",
@@ -93,7 +93,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 9793,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0013",
@@ -101,7 +101,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3907,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0014",
@@ -109,7 +109,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 3218,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0015",
@@ -117,7 +117,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8862,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0016",
@@ -125,7 +125,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 3928,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0017",
@@ -133,7 +133,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 7355,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0018",
@@ -141,7 +141,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 5705,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0019",
@@ -149,7 +149,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 2218,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0020",
@@ -157,7 +157,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 9854,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0021",
@@ -165,7 +165,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8694,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0022",
@@ -173,7 +173,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 5866,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0023",
@@ -181,7 +181,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 2493,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0024",
@@ -189,7 +189,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 8666,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0025",
@@ -197,7 +197,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 6020,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0026",
@@ -205,7 +205,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1339,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0027",
@@ -213,7 +213,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1223,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0028",
@@ -221,7 +221,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3136,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0029",
@@ -229,7 +229,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 559,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0030",
@@ -237,7 +237,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3794,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0031",
@@ -245,7 +245,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 1670,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0032",
@@ -253,7 +253,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 8093,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0033",
@@ -261,7 +261,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 1795,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0034",
@@ -269,7 +269,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 297,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0035",
@@ -277,7 +277,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 5205,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0036",
@@ -285,7 +285,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 4023,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0037",
@@ -293,7 +293,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 4550,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0038",
@@ -301,7 +301,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 8304,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0039",
@@ -309,7 +309,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3460,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0040",
@@ -317,7 +317,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 8019,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0041",
@@ -325,7 +325,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 7995,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0042",
@@ -333,7 +333,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 5989,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0043",
@@ -341,7 +341,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 5956,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0044",
@@ -349,7 +349,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5189,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0045",
@@ -357,7 +357,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 7555,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0046",
@@ -365,7 +365,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 3521,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0047",
@@ -373,7 +373,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 7215,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0048",
@@ -381,7 +381,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 8773,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0049",
@@ -389,7 +389,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 5963,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0050",
@@ -397,7 +397,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 5505,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0051",
@@ -405,7 +405,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9657,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0052",
@@ -413,7 +413,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 2875,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0053",
@@ -421,7 +421,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 4885,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0054",
@@ -429,7 +429,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 7777,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0055",
@@ -437,7 +437,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 5412,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0056",
@@ -445,7 +445,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 441,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0057",
@@ -453,7 +453,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6364,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0058",
@@ -461,7 +461,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 8409,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0059",
@@ -469,7 +469,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 8386,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0060",
@@ -477,7 +477,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 3898,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0061",
@@ -485,7 +485,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 7882,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0062",
@@ -493,7 +493,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 6641,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0063",
@@ -501,7 +501,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 6110,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0064",
@@ -509,7 +509,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 7583,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0065",
@@ -517,7 +517,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 3000,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0066",
@@ -525,7 +525,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 4059,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0067",
@@ -533,7 +533,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 5271,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0068",
@@ -541,7 +541,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6502,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0069",
@@ -549,7 +549,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1049,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0070",
@@ -557,7 +557,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 932,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0071",
@@ -565,7 +565,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8654,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0072",
@@ -573,7 +573,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 7250,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0073",
@@ -581,7 +581,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 6767,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0074",
@@ -589,7 +589,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 9453,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0075",
@@ -597,7 +597,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 3655,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0076",
@@ -605,7 +605,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 2867,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0077",
@@ -613,7 +613,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8285,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0078",
@@ -621,7 +621,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 8331,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0079",
@@ -629,7 +629,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 4023,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0080",
@@ -637,7 +637,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1874,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0081",
@@ -645,7 +645,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 9507,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0082",
@@ -653,7 +653,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 7752,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0083",
@@ -661,7 +661,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 454,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0084",
@@ -669,7 +669,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 9546,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0085",
@@ -677,7 +677,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 7188,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0086",
@@ -685,7 +685,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 3118,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0087",
@@ -693,7 +693,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 1978,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0088",
@@ -701,7 +701,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 4511,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0089",
@@ -709,7 +709,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 197,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0090",
@@ -717,7 +717,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2750,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0091",
@@ -725,7 +725,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5976,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0092",
@@ -733,7 +733,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 2433,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0093",
@@ -741,7 +741,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 2663,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0094",
@@ -749,7 +749,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 8189,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0095",
@@ -757,7 +757,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 2996,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0096",
@@ -765,7 +765,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 7124,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0097",
@@ -773,7 +773,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 303,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0098",
@@ -781,7 +781,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8710,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0099",
@@ -789,7 +789,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5889,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0100",
@@ -797,7 +797,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8083,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0101",
@@ -805,7 +805,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 7553,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0102",
@@ -813,7 +813,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 6714,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0103",
@@ -821,7 +821,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 7593,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0104",
@@ -829,7 +829,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1118,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0105",
@@ -837,7 +837,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 2041,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0106",
@@ -845,7 +845,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 3281,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0107",
@@ -853,7 +853,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6351,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0108",
@@ -861,7 +861,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 3446,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0109",
@@ -869,7 +869,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 6378,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0110",
@@ -877,7 +877,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 1852,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0111",
@@ -885,7 +885,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 6668,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0112",
@@ -893,7 +893,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 785,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0113",
@@ -901,7 +901,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 3005,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0114",
@@ -909,7 +909,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 7595,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0115",
@@ -917,7 +917,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8527,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0116",
@@ -925,7 +925,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 3405,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0117",
@@ -933,7 +933,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6914,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0118",
@@ -941,7 +941,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 3591,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0119",
@@ -949,7 +949,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 3157,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0120",
@@ -957,7 +957,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 2495,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0121",
@@ -965,7 +965,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 6451,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0122",
@@ -973,7 +973,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 8409,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0123",
@@ -981,7 +981,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5116,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0124",
@@ -989,7 +989,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 8292,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0125",
@@ -997,7 +997,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 4921,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0126",
@@ -1005,7 +1005,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 9848,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0127",
@@ -1013,7 +1013,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8910,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0128",
@@ -1021,7 +1021,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3187,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0129",
@@ -1029,7 +1029,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5010,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0130",
@@ -1037,7 +1037,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 263,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0131",
@@ -1045,7 +1045,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 4975,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0132",
@@ -1053,7 +1053,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 7163,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0133",
@@ -1061,7 +1061,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 3126,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0134",
@@ -1069,7 +1069,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 8137,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0135",
@@ -1077,7 +1077,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 7935,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0136",
@@ -1085,7 +1085,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 3830,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0137",
@@ -1093,7 +1093,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 426,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0138",
@@ -1101,7 +1101,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7699,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0139",
@@ -1109,7 +1109,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2838,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0140",
@@ -1117,7 +1117,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 837,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0141",
@@ -1125,7 +1125,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 105,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0142",
@@ -1133,7 +1133,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2354,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0143",
@@ -1141,7 +1141,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 8036,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0144",
@@ -1149,7 +1149,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 8713,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0145",
@@ -1157,7 +1157,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 4581,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0146",
@@ -1165,7 +1165,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3310,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0147",
@@ -1173,7 +1173,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1019,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0148",
@@ -1181,7 +1181,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8767,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0149",
@@ -1189,7 +1189,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 6165,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0150",
@@ -1197,7 +1197,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 4278,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0151",
@@ -1205,7 +1205,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8805,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0152",
@@ -1213,7 +1213,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 1854,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0153",
@@ -1221,7 +1221,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5402,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0154",
@@ -1229,7 +1229,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 1087,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0155",
@@ -1237,7 +1237,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 5973,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0156",
@@ -1245,7 +1245,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 6442,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0157",
@@ -1253,7 +1253,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 2547,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0158",
@@ -1261,7 +1261,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 6488,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0159",
@@ -1269,7 +1269,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 7940,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0160",
@@ -1277,7 +1277,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 9305,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0161",
@@ -1285,7 +1285,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 6759,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0162",
@@ -1293,7 +1293,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 3383,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0163",
@@ -1301,7 +1301,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 5317,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0164",
@@ -1309,7 +1309,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 6189,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0165",
@@ -1317,7 +1317,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 7655,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0166",
@@ -1325,7 +1325,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 638,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0167",
@@ -1333,7 +1333,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 5211,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0168",
@@ -1341,7 +1341,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9254,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0169",
@@ -1349,7 +1349,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 1104,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0170",
@@ -1357,7 +1357,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 3871,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0171",
@@ -1365,7 +1365,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3882,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0172",
@@ -1373,7 +1373,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2340,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0173",
@@ -1381,7 +1381,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 4562,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0174",
@@ -1389,7 +1389,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 5188,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0175",
@@ -1397,7 +1397,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 4783,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0176",
@@ -1405,7 +1405,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 8528,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0177",
@@ -1413,7 +1413,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 4729,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0178",
@@ -1421,7 +1421,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 1556,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0179",
@@ -1429,7 +1429,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 835,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0180",
@@ -1437,7 +1437,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 5738,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0181",
@@ -1445,7 +1445,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 4554,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0182",
@@ -1453,7 +1453,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 8513,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0183",
@@ -1461,7 +1461,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 9822,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0184",
@@ -1469,7 +1469,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 940,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0185",
@@ -1477,7 +1477,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 4474,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0186",
@@ -1485,7 +1485,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 4726,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0187",
@@ -1493,7 +1493,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 821,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0188",
@@ -1501,7 +1501,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 2366,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0189",
@@ -1509,7 +1509,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 3614,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0190",
@@ -1517,7 +1517,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8394,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0191",
@@ -1525,7 +1525,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 278,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0192",
@@ -1533,7 +1533,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 4743,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0193",
@@ -1541,7 +1541,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 7940,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0194",
@@ -1549,7 +1549,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 7400,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0195",
@@ -1557,7 +1557,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 1975,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0196",
@@ -1565,7 +1565,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 4563,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0197",
@@ -1573,7 +1573,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 2993,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0198",
@@ -1581,7 +1581,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 1882,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0199",
@@ -1589,7 +1589,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 912,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0200",
@@ -1597,7 +1597,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2019,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0201",
@@ -1605,7 +1605,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 5475,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0202",
@@ -1613,7 +1613,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 2216,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0203",
@@ -1621,7 +1621,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 2436,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0204",
@@ -1629,7 +1629,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1702,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0205",
@@ -1637,7 +1637,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 2068,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0206",
@@ -1645,7 +1645,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 7911,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0207",
@@ -1653,7 +1653,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 5914,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0208",
@@ -1661,7 +1661,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 2487,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0209",
@@ -1669,7 +1669,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 5687,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0210",
@@ -1677,7 +1677,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 9710,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0211",
@@ -1685,7 +1685,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 777,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0212",
@@ -1693,7 +1693,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 1296,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0213",
@@ -1701,7 +1701,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 725,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0214",
@@ -1709,7 +1709,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 6794,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0215",
@@ -1717,7 +1717,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 2287,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0216",
@@ -1725,7 +1725,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 7040,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0217",
@@ -1733,7 +1733,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 6096,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0218",
@@ -1741,7 +1741,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 8043,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0219",
@@ -1749,7 +1749,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 7630,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0220",
@@ -1757,7 +1757,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 441,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0221",
@@ -1765,7 +1765,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 9852,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0222",
@@ -1773,7 +1773,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 6128,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0223",
@@ -1781,7 +1781,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 2603,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0224",
@@ -1789,7 +1789,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 103,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0225",
@@ -1797,7 +1797,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 510,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0226",
@@ -1805,7 +1805,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3249,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0227",
@@ -1813,7 +1813,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 1381,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0228",
@@ -1821,7 +1821,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 2828,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0229",
@@ -1829,7 +1829,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 2000,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0230",
@@ -1837,7 +1837,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 901,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0231",
@@ -1845,7 +1845,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8648,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0232",
@@ -1853,7 +1853,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8711,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0233",
@@ -1861,7 +1861,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 9208,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0234",
@@ -1869,7 +1869,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 6391,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0235",
@@ -1877,7 +1877,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 4649,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0236",
@@ -1885,7 +1885,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 3627,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0237",
@@ -1893,7 +1893,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 8223,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0238",
@@ -1901,7 +1901,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 2738,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0239",
@@ -1909,7 +1909,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1750,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0240",
@@ -1917,7 +1917,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 2414,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0241",
@@ -1925,7 +1925,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 825,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0242",
@@ -1933,7 +1933,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 7804,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0243",
@@ -1941,7 +1941,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 6244,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0244",
@@ -1949,7 +1949,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8296,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0245",
@@ -1957,7 +1957,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 5641,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0246",
@@ -1965,7 +1965,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8298,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0247",
@@ -1973,7 +1973,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1812,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0248",
@@ -1981,7 +1981,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8496,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0249",
@@ -1989,7 +1989,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 971,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0250",
@@ -1997,7 +1997,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 5236,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0251",
@@ -2005,7 +2005,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 4950,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0252",
@@ -2013,7 +2013,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 7678,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0253",
@@ -2021,7 +2021,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2908,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0254",
@@ -2029,7 +2029,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 8836,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0255",
@@ -2037,7 +2037,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2718,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0256",
@@ -2045,7 +2045,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 1465,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0257",
@@ -2053,7 +2053,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 4640,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0258",
@@ -2061,7 +2061,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1744,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0259",
@@ -2069,7 +2069,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 2743,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0260",
@@ -2077,7 +2077,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 3232,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0261",
@@ -2085,7 +2085,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1792,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0262",
@@ -2093,7 +2093,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 3236,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0263",
@@ -2101,7 +2101,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9261,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0264",
@@ -2109,7 +2109,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 5076,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0265",
@@ -2117,7 +2117,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 7485,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0266",
@@ -2125,7 +2125,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 9423,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0267",
@@ -2133,7 +2133,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 1294,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0268",
@@ -2141,7 +2141,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1063,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0269",
@@ -2149,7 +2149,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 8834,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0270",
@@ -2157,7 +2157,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2176,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0271",
@@ -2165,7 +2165,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 4417,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0272",
@@ -2173,7 +2173,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 6371,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0273",
@@ -2181,7 +2181,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 1538,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0274",
@@ -2189,7 +2189,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 2451,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0275",
@@ -2197,7 +2197,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 6059,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0276",
@@ -2205,7 +2205,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 9284,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0277",
@@ -2213,7 +2213,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5441,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0278",
@@ -2221,7 +2221,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 3521,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0279",
@@ -2229,7 +2229,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 7626,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0280",
@@ -2237,7 +2237,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 7943,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0281",
@@ -2245,7 +2245,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 8050,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0282",
@@ -2253,7 +2253,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 1105,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0283",
@@ -2261,7 +2261,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3877,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0284",
@@ -2269,7 +2269,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 1476,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0285",
@@ -2277,7 +2277,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 2370,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0286",
@@ -2285,7 +2285,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 4822,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0287",
@@ -2293,7 +2293,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 9443,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0288",
@@ -2301,7 +2301,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 7555,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0289",
@@ -2309,7 +2309,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 8971,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0290",
@@ -2317,7 +2317,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 9735,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0291",
@@ -2325,7 +2325,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 924,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0292",
@@ -2333,7 +2333,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 5840,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0293",
@@ -2341,7 +2341,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8388,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0294",
@@ -2349,7 +2349,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 5915,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0295",
@@ -2357,7 +2357,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 7499,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0296",
@@ -2365,7 +2365,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 3361,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0297",
@@ -2373,7 +2373,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 4829,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0298",
@@ -2381,7 +2381,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 6255,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0299",
@@ -2389,7 +2389,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 2236,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0300",
@@ -2397,7 +2397,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 5336,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0301",
@@ -2405,7 +2405,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 4159,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0302",
@@ -2413,7 +2413,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 243,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0303",
@@ -2421,7 +2421,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 9547,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0304",
@@ -2429,7 +2429,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5438,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0305",
@@ -2437,7 +2437,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 6506,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0306",
@@ -2445,7 +2445,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8668,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0307",
@@ -2453,7 +2453,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 4135,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0308",
@@ -2461,7 +2461,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 4749,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0309",
@@ -2469,7 +2469,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 3622,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0310",
@@ -2477,7 +2477,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 1025,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0311",
@@ -2485,7 +2485,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8512,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0312",
@@ -2493,7 +2493,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 4340,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0313",
@@ -2501,7 +2501,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 1868,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0314",
@@ -2509,7 +2509,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 1422,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0315",
@@ -2517,7 +2517,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 9441,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0316",
@@ -2525,7 +2525,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 470,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0317",
@@ -2533,7 +2533,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 3101,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0318",
@@ -2541,7 +2541,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 4351,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0319",
@@ -2549,7 +2549,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 6358,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0320",
@@ -2557,7 +2557,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 8855,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0321",
@@ -2565,7 +2565,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 1987,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0322",
@@ -2573,7 +2573,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 2661,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0323",
@@ -2581,7 +2581,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6051,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0324",
@@ -2589,7 +2589,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 1620,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0325",
@@ -2597,7 +2597,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 2122,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0326",
@@ -2605,7 +2605,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 6555,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0327",
@@ -2613,7 +2613,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 500,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0328",
@@ -2621,7 +2621,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 4201,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0329",
@@ -2629,7 +2629,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6998,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0330",
@@ -2637,7 +2637,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 6818,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0331",
@@ -2645,7 +2645,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 5498,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0332",
@@ -2653,7 +2653,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 3878,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0333",
@@ -2661,7 +2661,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 9297,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0334",
@@ -2669,7 +2669,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 169,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0335",
@@ -2677,7 +2677,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 7770,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0336",
@@ -2685,7 +2685,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 6325,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0337",
@@ -2693,7 +2693,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 9903,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0338",
@@ -2701,7 +2701,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 6708,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0339",
@@ -2709,7 +2709,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 241,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0340",
@@ -2717,7 +2717,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7399,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0341",
@@ -2725,7 +2725,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 4163,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0342",
@@ -2733,7 +2733,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9121,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0343",
@@ -2741,7 +2741,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 4160,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0344",
@@ -2749,7 +2749,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3988,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0345",
@@ -2757,7 +2757,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 2728,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0346",
@@ -2765,7 +2765,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 1999,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0347",
@@ -2773,7 +2773,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8656,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0348",
@@ -2781,7 +2781,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 431,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0349",
@@ -2789,7 +2789,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 4594,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0350",
@@ -2797,7 +2797,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 4606,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0351",
@@ -2805,7 +2805,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 9099,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0352",
@@ -2813,7 +2813,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 7301,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0353",
@@ -2821,7 +2821,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 9437,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0354",
@@ -2829,7 +2829,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 3564,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0355",
@@ -2837,7 +2837,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 296,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0356",
@@ -2845,7 +2845,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1218,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0357",
@@ -2853,7 +2853,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 8599,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0358",
@@ -2861,7 +2861,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 236,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0359",
@@ -2869,7 +2869,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 9591,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0360",
@@ -2877,7 +2877,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 4135,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0361",
@@ -2885,7 +2885,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 3539,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0362",
@@ -2893,7 +2893,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 9966,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0363",
@@ -2901,7 +2901,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 7367,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0364",
@@ -2909,7 +2909,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 4278,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0365",
@@ -2917,7 +2917,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 5559,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0366",
@@ -2925,7 +2925,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 8962,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0367",
@@ -2933,7 +2933,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 3633,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0368",
@@ -2941,7 +2941,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 5849,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0369",
@@ -2949,7 +2949,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 3462,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0370",
@@ -2957,7 +2957,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8272,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0371",
@@ -2965,7 +2965,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 6739,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0372",
@@ -2973,7 +2973,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 620,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0373",
@@ -2981,7 +2981,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 1613,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0374",
@@ -2989,7 +2989,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 2271,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0375",
@@ -2997,7 +2997,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 6125,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0376",
@@ -3005,7 +3005,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 4675,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0377",
@@ -3013,7 +3013,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 545,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0378",
@@ -3021,7 +3021,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8075,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0379",
@@ -3029,7 +3029,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 290,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0380",
@@ -3037,7 +3037,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2241,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0381",
@@ -3045,7 +3045,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 9241,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0382",
@@ -3053,7 +3053,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 5878,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0383",
@@ -3061,7 +3061,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3045,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0384",
@@ -3069,7 +3069,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 452,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0385",
@@ -3077,7 +3077,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1037,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0386",
@@ -3085,7 +3085,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 2344,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0387",
@@ -3093,7 +3093,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 1313,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0388",
@@ -3101,7 +3101,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 4744,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0389",
@@ -3109,7 +3109,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 3815,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0390",
@@ -3117,7 +3117,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 7842,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0391",
@@ -3125,7 +3125,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 7073,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0392",
@@ -3133,7 +3133,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7618,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0393",
@@ -3141,7 +3141,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 3340,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0394",
@@ -3149,7 +3149,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 5405,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0395",
@@ -3157,7 +3157,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 360,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0396",
@@ -3165,7 +3165,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 102,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0397",
@@ -3173,7 +3173,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 2188,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0398",
@@ -3181,7 +3181,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 5565,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0399",
@@ -3189,7 +3189,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 3235,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0400",
@@ -3197,7 +3197,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 5964,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0401",
@@ -3205,7 +3205,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6251,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0402",
@@ -3213,7 +3213,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 3694,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0403",
@@ -3221,7 +3221,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 1070,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0404",
@@ -3229,7 +3229,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 2285,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0405",
@@ -3237,7 +3237,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 1854,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0406",
@@ -3245,7 +3245,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 7979,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0407",
@@ -3253,7 +3253,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 1736,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0408",
@@ -3261,7 +3261,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 2612,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0409",
@@ -3269,7 +3269,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8930,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0410",
@@ -3277,7 +3277,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 8358,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0411",
@@ -3285,7 +3285,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 1058,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0412",
@@ -3293,7 +3293,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 7920,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0413",
@@ -3301,7 +3301,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 4344,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0414",
@@ -3309,7 +3309,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 8086,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0415",
@@ -3317,7 +3317,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 107,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0416",
@@ -3325,7 +3325,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8789,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0417",
@@ -3333,7 +3333,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 3805,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0418",
@@ -3341,7 +3341,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 2755,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0419",
@@ -3349,7 +3349,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 3951,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0420",
@@ -3357,7 +3357,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 5714,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0421",
@@ -3365,7 +3365,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 509,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0422",
@@ -3373,7 +3373,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 526,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0423",
@@ -3381,7 +3381,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8688,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0424",
@@ -3389,7 +3389,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 9096,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0425",
@@ -3397,7 +3397,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 5392,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0426",
@@ -3405,7 +3405,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6171,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0427",
@@ -3413,7 +3413,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 7669,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0428",
@@ -3421,7 +3421,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 8625,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0429",
@@ -3429,7 +3429,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 2312,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0430",
@@ -3437,7 +3437,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6340,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0431",
@@ -3445,7 +3445,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 2003,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0432",
@@ -3453,7 +3453,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 7781,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0433",
@@ -3461,7 +3461,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 2481,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0434",
@@ -3469,7 +3469,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 9107,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0435",
@@ -3477,7 +3477,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5825,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0436",
@@ -3485,7 +3485,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 1918,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0437",
@@ -3493,7 +3493,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 4264,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0438",
@@ -3501,7 +3501,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1938,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0439",
@@ -3509,7 +3509,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8548,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0440",
@@ -3517,7 +3517,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 394,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0441",
@@ -3525,7 +3525,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 9436,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0442",
@@ -3533,7 +3533,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 451,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0443",
@@ -3541,7 +3541,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2906,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0444",
@@ -3549,7 +3549,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7427,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0445",
@@ -3557,7 +3557,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5233,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0446",
@@ -3565,7 +3565,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 6124,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0447",
@@ -3573,7 +3573,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 5800,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0448",
@@ -3581,7 +3581,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 7987,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0449",
@@ -3589,7 +3589,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 3618,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0450",
@@ -3597,7 +3597,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 6564,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0451",
@@ -3605,7 +3605,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 1157,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0452",
@@ -3613,7 +3613,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 2422,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0453",
@@ -3621,7 +3621,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 2085,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0454",
@@ -3629,7 +3629,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 5499,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0455",
@@ -3637,7 +3637,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 2548,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0456",
@@ -3645,7 +3645,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 5340,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0457",
@@ -3653,7 +3653,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 2005,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0458",
@@ -3661,7 +3661,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2831,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0459",
@@ -3669,7 +3669,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3430,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0460",
@@ -3677,7 +3677,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1396,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0461",
@@ -3685,7 +3685,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 9044,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0462",
@@ -3693,7 +3693,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 6872,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0463",
@@ -3701,7 +3701,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 2183,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0464",
@@ -3709,7 +3709,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 8680,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0465",
@@ -3717,7 +3717,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 7545,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0466",
@@ -3725,7 +3725,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3590,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0467",
@@ -3733,7 +3733,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 3780,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0468",
@@ -3741,7 +3741,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 9290,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0469",
@@ -3749,7 +3749,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 1062,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0470",
@@ -3757,7 +3757,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 6267,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0471",
@@ -3765,7 +3765,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 3072,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0472",
@@ -3773,7 +3773,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 5529,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0473",
@@ -3781,7 +3781,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 6516,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0474",
@@ -3789,7 +3789,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3263,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0475",
@@ -3797,7 +3797,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 7283,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0476",
@@ -3805,7 +3805,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 7822,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0477",
@@ -3813,7 +3813,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8698,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0478",
@@ -3821,7 +3821,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 9986,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0479",
@@ -3829,7 +3829,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 632,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0480",
@@ -3837,7 +3837,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 8227,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0481",
@@ -3845,7 +3845,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 2484,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0482",
@@ -3853,7 +3853,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 722,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0483",
@@ -3861,7 +3861,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 9018,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0484",
@@ -3869,7 +3869,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 9942,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0485",
@@ -3877,7 +3877,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2756,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0486",
@@ -3885,7 +3885,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 7252,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0487",
@@ -3893,7 +3893,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 5909,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0488",
@@ -3901,7 +3901,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 9282,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0489",
@@ -3909,7 +3909,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 8587,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0490",
@@ -3917,7 +3917,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8629,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0491",
@@ -3925,7 +3925,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3732,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0492",
@@ -3933,7 +3933,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2979,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0493",
@@ -3941,7 +3941,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 1161,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0494",
@@ -3949,7 +3949,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8356,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0495",
@@ -3957,7 +3957,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 3888,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0496",
@@ -3965,7 +3965,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9243,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0497",
@@ -3973,7 +3973,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1675,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0498",
@@ -3981,7 +3981,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 6946,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0499",
@@ -3989,7 +3989,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8404,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0500",
@@ -3997,7 +3997,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 2202,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0501",
@@ -4005,7 +4005,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 7157,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0502",
@@ -4013,7 +4013,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1853,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0503",
@@ -4021,7 +4021,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 970,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0504",
@@ -4029,7 +4029,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 800,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0505",
@@ -4037,7 +4037,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 5157,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0506",
@@ -4045,7 +4045,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 4334,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0507",
@@ -4053,7 +4053,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 3723,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0508",
@@ -4061,7 +4061,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 8927,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0509",
@@ -4069,7 +4069,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 7562,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0510",
@@ -4077,7 +4077,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 4089,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0511",
@@ -4085,7 +4085,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 8963,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0512",
@@ -4093,7 +4093,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 6056,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0513",
@@ -4101,7 +4101,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 9776,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0514",
@@ -4109,7 +4109,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3057,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0515",
@@ -4117,7 +4117,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 8574,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0516",
@@ -4125,7 +4125,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2419,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0517",
@@ -4133,7 +4133,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 5487,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0518",
@@ -4141,7 +4141,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8410,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0519",
@@ -4149,7 +4149,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 8083,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0520",
@@ -4157,7 +4157,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1000,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0521",
@@ -4165,7 +4165,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2744,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0522",
@@ -4173,7 +4173,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 9514,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0523",
@@ -4181,7 +4181,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 925,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0524",
@@ -4189,7 +4189,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1009,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0525",
@@ -4197,7 +4197,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 9396,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0526",
@@ -4205,7 +4205,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 6597,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0527",
@@ -4213,7 +4213,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 4351,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0528",
@@ -4221,7 +4221,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3990,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0529",
@@ -4229,7 +4229,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 1181,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0530",
@@ -4237,7 +4237,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 6550,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0531",
@@ -4245,7 +4245,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7798,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0532",
@@ -4253,7 +4253,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 1436,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0533",
@@ -4261,7 +4261,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8486,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0534",
@@ -4269,7 +4269,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 3669,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0535",
@@ -4277,7 +4277,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 7904,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0536",
@@ -4285,7 +4285,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 926,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0537",
@@ -4293,7 +4293,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 4033,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0538",
@@ -4301,7 +4301,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 4815,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0539",
@@ -4309,7 +4309,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 8826,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0540",
@@ -4317,7 +4317,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 7538,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0541",
@@ -4325,7 +4325,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 646,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0542",
@@ -4333,7 +4333,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 4823,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0543",
@@ -4341,7 +4341,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 2763,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0544",
@@ -4349,7 +4349,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 6097,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0545",
@@ -4357,7 +4357,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 4513,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0546",
@@ -4365,7 +4365,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1701,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0547",
@@ -4373,7 +4373,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2927,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0548",
@@ -4381,7 +4381,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 192,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0549",
@@ -4389,7 +4389,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 8037,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0550",
@@ -4397,7 +4397,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 9829,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0551",
@@ -4405,7 +4405,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 5453,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0552",
@@ -4413,7 +4413,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 7061,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0553",
@@ -4421,7 +4421,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 6382,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0554",
@@ -4429,7 +4429,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 5306,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0555",
@@ -4437,7 +4437,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3576,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0556",
@@ -4445,7 +4445,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 3014,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0557",
@@ -4453,7 +4453,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 2563,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0558",
@@ -4461,7 +4461,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 614,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0559",
@@ -4469,7 +4469,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 2894,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0560",
@@ -4477,7 +4477,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 7124,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0561",
@@ -4485,7 +4485,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3197,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0562",
@@ -4493,7 +4493,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 9338,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0563",
@@ -4501,7 +4501,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 738,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0564",
@@ -4509,7 +4509,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 7829,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0565",
@@ -4517,7 +4517,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1860,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0566",
@@ -4525,7 +4525,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7014,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0567",
@@ -4533,7 +4533,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1290,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0568",
@@ -4541,7 +4541,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3462,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0569",
@@ -4549,7 +4549,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5212,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0570",
@@ -4557,7 +4557,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 164,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0571",
@@ -4565,7 +4565,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 6766,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0572",
@@ -4573,7 +4573,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2826,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0573",
@@ -4581,7 +4581,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2354,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0574",
@@ -4589,7 +4589,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2895,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0575",
@@ -4597,7 +4597,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 4152,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0576",
@@ -4605,7 +4605,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 3070,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0577",
@@ -4613,7 +4613,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 5583,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0578",
@@ -4621,7 +4621,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 9586,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0579",
@@ -4629,7 +4629,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 4167,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0580",
@@ -4637,7 +4637,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 6239,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0581",
@@ -4645,7 +4645,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 1213,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0582",
@@ -4653,7 +4653,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 8417,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0583",
@@ -4661,7 +4661,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8763,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0584",
@@ -4669,7 +4669,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 7697,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0585",
@@ -4677,7 +4677,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 5119,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0586",
@@ -4685,7 +4685,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 7432,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0587",
@@ -4693,7 +4693,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 2406,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0588",
@@ -4701,7 +4701,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8990,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0589",
@@ -4709,7 +4709,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 8788,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0590",
@@ -4717,7 +4717,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 1437,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0591",
@@ -4725,7 +4725,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 4500,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0592",
@@ -4733,7 +4733,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 6473,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0593",
@@ -4741,7 +4741,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 9066,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0594",
@@ -4749,7 +4749,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 3680,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0595",
@@ -4757,7 +4757,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 6557,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0596",
@@ -4765,7 +4765,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 651,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0597",
@@ -4773,7 +4773,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 4407,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0598",
@@ -4781,7 +4781,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 2647,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0599",
@@ -4789,7 +4789,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1626,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0600",
@@ -4797,7 +4797,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 4032,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0601",
@@ -4805,7 +4805,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1803,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0602",
@@ -4813,7 +4813,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3483,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0603",
@@ -4821,7 +4821,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 2158,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0604",
@@ -4829,7 +4829,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 915,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0605",
@@ -4837,7 +4837,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3230,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0606",
@@ -4845,7 +4845,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 9069,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0607",
@@ -4853,7 +4853,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 3304,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0608",
@@ -4861,7 +4861,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 3358,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0609",
@@ -4869,7 +4869,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 3127,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0610",
@@ -4877,7 +4877,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 3858,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0611",
@@ -4885,7 +4885,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3341,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0612",
@@ -4893,7 +4893,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 1632,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0613",
@@ -4901,7 +4901,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8703,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0614",
@@ -4909,7 +4909,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 7708,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0615",
@@ -4917,7 +4917,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 2161,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0616",
@@ -4925,7 +4925,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 6721,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0617",
@@ -4933,7 +4933,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 9042,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0618",
@@ -4941,7 +4941,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 682,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0619",
@@ -4949,7 +4949,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 272,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0620",
@@ -4957,7 +4957,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 3750,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0621",
@@ -4965,7 +4965,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1941,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0622",
@@ -4973,7 +4973,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3172,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0623",
@@ -4981,7 +4981,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 1083,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0624",
@@ -4989,7 +4989,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 4530,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0625",
@@ -4997,7 +4997,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 6179,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0626",
@@ -5005,7 +5005,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 2016,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0627",
@@ -5013,7 +5013,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 7867,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0628",
@@ -5021,7 +5021,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 9163,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0629",
@@ -5029,7 +5029,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 2389,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0630",
@@ -5037,7 +5037,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 6682,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0631",
@@ -5045,7 +5045,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 2385,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0632",
@@ -5053,7 +5053,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1906,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0633",
@@ -5061,7 +5061,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1963,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0634",
@@ -5069,7 +5069,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3298,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0635",
@@ -5077,7 +5077,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 4670,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0636",
@@ -5085,7 +5085,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 5542,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0637",
@@ -5093,7 +5093,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 3226,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0638",
@@ -5101,7 +5101,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 1508,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0639",
@@ -5109,7 +5109,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2641,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0640",
@@ -5117,7 +5117,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 7239,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0641",
@@ -5125,7 +5125,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 1816,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0642",
@@ -5133,7 +5133,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 420,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0643",
@@ -5141,7 +5141,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 5695,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0644",
@@ -5149,7 +5149,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 7195,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0645",
@@ -5157,7 +5157,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 9333,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0646",
@@ -5165,7 +5165,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 6327,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0647",
@@ -5173,7 +5173,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 6476,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0648",
@@ -5181,7 +5181,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 3306,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0649",
@@ -5189,7 +5189,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 965,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0650",
@@ -5197,7 +5197,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 8142,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0651",
@@ -5205,7 +5205,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 6990,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0652",
@@ -5213,7 +5213,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 4455,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0653",
@@ -5221,7 +5221,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 4959,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0654",
@@ -5229,7 +5229,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 6503,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0655",
@@ -5237,7 +5237,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 3586,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0656",
@@ -5245,7 +5245,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1441,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0657",
@@ -5253,7 +5253,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 5356,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0658",
@@ -5261,7 +5261,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 1643,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0659",
@@ -5269,7 +5269,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8433,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0660",
@@ -5277,7 +5277,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 190,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0661",
@@ -5285,7 +5285,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5746,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0662",
@@ -5293,7 +5293,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 8633,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0663",
@@ -5301,7 +5301,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 219,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0664",
@@ -5309,7 +5309,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 7274,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0665",
@@ -5317,7 +5317,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 704,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0666",
@@ -5325,7 +5325,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 6204,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0667",
@@ -5333,7 +5333,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 394,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0668",
@@ -5341,7 +5341,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 6544,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0669",
@@ -5349,7 +5349,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 3040,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0670",
@@ -5357,7 +5357,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 836,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0671",
@@ -5365,7 +5365,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 4974,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0672",
@@ -5373,7 +5373,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 4142,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0673",
@@ -5381,7 +5381,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 5015,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0674",
@@ -5389,7 +5389,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 7922,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0675",
@@ -5397,7 +5397,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 561,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0676",
@@ -5405,7 +5405,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 7281,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0677",
@@ -5413,7 +5413,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 2744,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0678",
@@ -5421,7 +5421,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 6109,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0679",
@@ -5429,7 +5429,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3087,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0680",
@@ -5437,7 +5437,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 6483,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0681",
@@ -5445,7 +5445,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 7567,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0682",
@@ -5453,7 +5453,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 801,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0683",
@@ -5461,7 +5461,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 536,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0684",
@@ -5469,7 +5469,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 6600,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0685",
@@ -5477,7 +5477,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 4097,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0686",
@@ -5485,7 +5485,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3353,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0687",
@@ -5493,7 +5493,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3130,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0688",
@@ -5501,7 +5501,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 2341,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0689",
@@ -5509,7 +5509,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 1952,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0690",
@@ -5517,7 +5517,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 8229,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0691",
@@ -5525,7 +5525,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 4208,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0692",
@@ -5533,7 +5533,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 4150,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0693",
@@ -5541,7 +5541,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 2679,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0694",
@@ -5549,7 +5549,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 9171,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0695",
@@ -5557,7 +5557,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1526,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0696",
@@ -5565,7 +5565,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 5483,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0697",
@@ -5573,7 +5573,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3085,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0698",
@@ -5581,7 +5581,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 6361,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0699",
@@ -5589,7 +5589,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5265,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0700",
@@ -5597,7 +5597,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 7958,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0701",
@@ -5605,7 +5605,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 4822,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0702",
@@ -5613,7 +5613,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 4222,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0703",
@@ -5621,7 +5621,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2362,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0704",
@@ -5629,7 +5629,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 6876,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0705",
@@ -5637,7 +5637,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9587,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0706",
@@ -5645,7 +5645,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 5169,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0707",
@@ -5653,7 +5653,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 106,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0708",
@@ -5661,7 +5661,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5328,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0709",
@@ -5669,7 +5669,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 2643,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0710",
@@ -5677,7 +5677,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 3683,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0711",
@@ -5685,7 +5685,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3622,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0712",
@@ -5693,7 +5693,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 8557,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0713",
@@ -5701,7 +5701,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 9203,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0714",
@@ -5709,7 +5709,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 6495,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0715",
@@ -5717,7 +5717,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 9687,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0716",
@@ -5725,7 +5725,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 8878,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0717",
@@ -5733,7 +5733,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 9669,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0718",
@@ -5741,7 +5741,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2856,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0719",
@@ -5749,7 +5749,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8829,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0720",
@@ -5757,7 +5757,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 9639,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0721",
@@ -5765,7 +5765,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 6790,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0722",
@@ -5773,7 +5773,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1582,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0723",
@@ -5781,7 +5781,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 6929,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0724",
@@ -5789,7 +5789,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 818,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0725",
@@ -5797,7 +5797,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 7870,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0726",
@@ -5805,7 +5805,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 6865,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0727",
@@ -5813,7 +5813,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5169,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0728",
@@ -5821,7 +5821,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 273,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0729",
@@ -5829,7 +5829,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 6354,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0730",
@@ -5837,7 +5837,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 3800,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0731",
@@ -5845,7 +5845,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 3503,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0732",
@@ -5853,7 +5853,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 3818,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0733",
@@ -5861,7 +5861,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 2928,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0734",
@@ -5869,7 +5869,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 9057,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0735",
@@ -5877,7 +5877,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 2171,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0736",
@@ -5885,7 +5885,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8692,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0737",
@@ -5893,7 +5893,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 8948,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0738",
@@ -5901,7 +5901,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 9096,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0739",
@@ -5909,7 +5909,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8105,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0740",
@@ -5917,7 +5917,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1819,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0741",
@@ -5925,7 +5925,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3904,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0742",
@@ -5933,7 +5933,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 3932,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0743",
@@ -5941,7 +5941,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 8415,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0744",
@@ -5949,7 +5949,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 7451,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0745",
@@ -5957,7 +5957,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 6105,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0746",
@@ -5965,7 +5965,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3474,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0747",
@@ -5973,7 +5973,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 3745,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0748",
@@ -5981,7 +5981,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8268,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0749",
@@ -5989,7 +5989,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 7263,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0750",
@@ -5997,7 +5997,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 9161,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0751",
@@ -6005,7 +6005,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 6676,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0752",
@@ -6013,7 +6013,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 4075,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0753",
@@ -6021,7 +6021,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 1482,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0754",
@@ -6029,7 +6029,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 2947,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0755",
@@ -6037,7 +6037,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3588,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0756",
@@ -6045,7 +6045,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8251,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0757",
@@ -6053,7 +6053,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 7764,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0758",
@@ -6061,7 +6061,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 907,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0759",
@@ -6069,7 +6069,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 7388,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0760",
@@ -6077,7 +6077,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 9934,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0761",
@@ -6085,7 +6085,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 8327,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0762",
@@ -6093,7 +6093,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 7076,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0763",
@@ -6101,7 +6101,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 9405,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0764",
@@ -6109,7 +6109,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 1555,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0765",
@@ -6117,7 +6117,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 6052,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0766",
@@ -6125,7 +6125,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 4292,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0767",
@@ -6133,7 +6133,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 7253,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0768",
@@ -6141,7 +6141,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 3480,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0769",
@@ -6149,7 +6149,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 4130,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0770",
@@ -6157,7 +6157,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 7372,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0771",
@@ -6165,7 +6165,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8732,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0772",
@@ -6173,7 +6173,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 2089,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0773",
@@ -6181,7 +6181,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 9039,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0774",
@@ -6189,7 +6189,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 7585,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0775",
@@ -6197,7 +6197,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 6531,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0776",
@@ -6205,7 +6205,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 2335,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0777",
@@ -6213,7 +6213,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2406,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0778",
@@ -6221,7 +6221,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 8887,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0779",
@@ -6229,7 +6229,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 9265,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0780",
@@ -6237,7 +6237,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 7010,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0781",
@@ -6245,7 +6245,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7549,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0782",
@@ -6253,7 +6253,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2021,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0783",
@@ -6261,7 +6261,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1879,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0784",
@@ -6269,7 +6269,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 629,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0785",
@@ -6277,7 +6277,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 3768,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0786",
@@ -6285,7 +6285,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 1963,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0787",
@@ -6293,7 +6293,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 2882,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0788",
@@ -6301,7 +6301,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 5037,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0789",
@@ -6309,7 +6309,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 4150,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0790",
@@ -6317,7 +6317,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 6220,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0791",
@@ -6325,7 +6325,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 9883,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0792",
@@ -6333,7 +6333,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3003,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0793",
@@ -6341,7 +6341,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 1222,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0794",
@@ -6349,7 +6349,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 6812,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0795",
@@ -6357,7 +6357,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 7378,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0796",
@@ -6365,7 +6365,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 9180,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0797",
@@ -6373,7 +6373,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 8417,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0798",
@@ -6381,7 +6381,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 3744,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0799",
@@ -6389,7 +6389,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 2863,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0800",
@@ -6397,7 +6397,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 8610,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0801",
@@ -6405,7 +6405,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 4051,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0802",
@@ -6413,7 +6413,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 6320,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0803",
@@ -6421,7 +6421,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 8035,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0804",
@@ -6429,7 +6429,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 697,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0805",
@@ -6437,7 +6437,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 9061,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0806",
@@ -6445,7 +6445,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 3929,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0807",
@@ -6453,7 +6453,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9162,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0808",
@@ -6461,7 +6461,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 9521,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0809",
@@ -6469,7 +6469,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8206,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0810",
@@ -6477,7 +6477,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5756,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0811",
@@ -6485,7 +6485,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 9075,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0812",
@@ -6493,7 +6493,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 3366,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0813",
@@ -6501,7 +6501,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8237,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0814",
@@ -6509,7 +6509,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 2806,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0815",
@@ -6517,7 +6517,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1096,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0816",
@@ -6525,7 +6525,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2908,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0817",
@@ -6533,7 +6533,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3093,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0818",
@@ -6541,7 +6541,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2754,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0819",
@@ -6549,7 +6549,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 7552,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0820",
@@ -6557,7 +6557,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 4977,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0821",
@@ -6565,7 +6565,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 4380,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0822",
@@ -6573,7 +6573,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 3963,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0823",
@@ -6581,7 +6581,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 4936,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0824",
@@ -6589,7 +6589,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1888,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0825",
@@ -6597,7 +6597,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 3819,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0826",
@@ -6605,7 +6605,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3593,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0827",
@@ -6613,7 +6613,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6165,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0828",
@@ -6621,7 +6621,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 9810,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0829",
@@ -6629,7 +6629,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 860,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0830",
@@ -6637,7 +6637,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1130,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0831",
@@ -6645,7 +6645,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 6020,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0832",
@@ -6653,7 +6653,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 6099,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0833",
@@ -6661,7 +6661,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 656,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0834",
@@ -6669,7 +6669,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 7080,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0835",
@@ -6677,7 +6677,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 5547,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0836",
@@ -6685,7 +6685,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 2871,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0837",
@@ -6693,7 +6693,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7141,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0838",
@@ -6701,7 +6701,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 9716,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0839",
@@ -6709,7 +6709,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 2452,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0840",
@@ -6717,7 +6717,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 5578,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0841",
@@ -6725,7 +6725,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9116,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0842",
@@ -6733,7 +6733,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 9673,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0843",
@@ -6741,7 +6741,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8207,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0844",
@@ -6749,7 +6749,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 513,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0845",
@@ -6757,7 +6757,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3663,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0846",
@@ -6765,7 +6765,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1076,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0847",
@@ -6773,7 +6773,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5866,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0848",
@@ -6781,7 +6781,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 5233,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0849",
@@ -6789,7 +6789,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 1791,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0850",
@@ -6797,7 +6797,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 3488,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0851",
@@ -6805,7 +6805,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1873,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0852",
@@ -6813,7 +6813,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 7809,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0853",
@@ -6821,7 +6821,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 2531,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0854",
@@ -6829,7 +6829,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 4894,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0855",
@@ -6837,7 +6837,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 186,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0856",
@@ -6845,7 +6845,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 7119,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0857",
@@ -6853,7 +6853,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9169,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0858",
@@ -6861,7 +6861,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 5375,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0859",
@@ -6869,7 +6869,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 8749,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0860",
@@ -6877,7 +6877,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 1147,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0861",
@@ -6885,7 +6885,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7962,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0862",
@@ -6893,7 +6893,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 8335,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0863",
@@ -6901,7 +6901,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 7177,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0864",
@@ -6909,7 +6909,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 5294,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0865",
@@ -6917,7 +6917,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 5988,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0866",
@@ -6925,7 +6925,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 437,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0867",
@@ -6933,7 +6933,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 787,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0868",
@@ -6941,7 +6941,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8447,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0869",
@@ -6949,7 +6949,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 8535,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0870",
@@ -6957,7 +6957,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 7216,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0871",
@@ -6965,7 +6965,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 110,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0872",
@@ -6973,7 +6973,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5017,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0873",
@@ -6981,7 +6981,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 7574,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0874",
@@ -6989,7 +6989,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 2737,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0875",
@@ -6997,7 +6997,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5601,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0876",
@@ -7005,7 +7005,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 5999,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0877",
@@ -7013,7 +7013,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 6248,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0878",
@@ -7021,7 +7021,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 1799,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0879",
@@ -7029,7 +7029,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 4742,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0880",
@@ -7037,7 +7037,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 8191,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0881",
@@ -7045,7 +7045,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 1187,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0882",
@@ -7053,7 +7053,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 3776,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0883",
@@ -7061,7 +7061,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 9470,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0884",
@@ -7069,7 +7069,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 9735,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0885",
@@ -7077,7 +7077,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 3367,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0886",
@@ -7085,7 +7085,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 6863,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0887",
@@ -7093,7 +7093,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 3213,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0888",
@@ -7101,7 +7101,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 1672,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0889",
@@ -7109,7 +7109,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 862,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0890",
@@ -7117,7 +7117,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2566,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0891",
@@ -7125,7 +7125,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2570,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0892",
@@ -7133,7 +7133,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1226,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0893",
@@ -7141,7 +7141,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5312,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0894",
@@ -7149,7 +7149,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 9305,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0895",
@@ -7157,7 +7157,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 6845,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0896",
@@ -7165,7 +7165,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 1682,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0897",
@@ -7173,7 +7173,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9039,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0898",
@@ -7181,7 +7181,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 1942,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0899",
@@ -7189,7 +7189,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3426,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0900",
@@ -7197,7 +7197,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 9067,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0901",
@@ -7205,7 +7205,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 6269,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0902",
@@ -7213,7 +7213,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 5548,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0903",
@@ -7221,7 +7221,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 6133,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0904",
@@ -7229,7 +7229,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 3133,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0905",
@@ -7237,7 +7237,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 4990,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0906",
@@ -7245,7 +7245,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 4154,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0907",
@@ -7253,7 +7253,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5443,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0908",
@@ -7261,7 +7261,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 8250,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0909",
@@ -7269,7 +7269,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 1276,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0910",
@@ -7277,7 +7277,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 3632,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0911",
@@ -7285,7 +7285,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 9583,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0912",
@@ -7293,7 +7293,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 9822,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0913",
@@ -7301,7 +7301,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 6468,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0914",
@@ -7309,7 +7309,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 7661,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0915",
@@ -7317,7 +7317,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 5269,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0916",
@@ -7325,7 +7325,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 350,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0917",
@@ -7333,7 +7333,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5463,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0918",
@@ -7341,7 +7341,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 1932,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0919",
@@ -7349,7 +7349,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8198,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0920",
@@ -7357,7 +7357,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 4083,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0921",
@@ -7365,7 +7365,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 5222,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0922",
@@ -7373,7 +7373,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 9295,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0923",
@@ -7381,7 +7381,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 6568,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0924",
@@ -7389,7 +7389,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 898,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0925",
@@ -7397,7 +7397,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 2870,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0926",
@@ -7405,7 +7405,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 1227,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0927",
@@ -7413,7 +7413,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 4882,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0928",
@@ -7421,7 +7421,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 2405,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0929",
@@ -7429,7 +7429,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3983,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0930",
@@ -7437,7 +7437,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 1462,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0931",
@@ -7445,7 +7445,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8822,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0932",
@@ -7453,7 +7453,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 2846,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0933",
@@ -7461,7 +7461,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 9802,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0934",
@@ -7469,7 +7469,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 6734,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0935",
@@ -7477,7 +7477,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 3460,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0936",
@@ -7485,7 +7485,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 9611,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0937",
@@ -7493,7 +7493,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 8439,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0938",
@@ -7501,7 +7501,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 9823,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0939",
@@ -7509,7 +7509,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 2398,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0940",
@@ -7517,7 +7517,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 2328,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0941",
@@ -7525,7 +7525,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 858,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0942",
@@ -7533,7 +7533,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 2823,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0943",
@@ -7541,7 +7541,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 713,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0944",
@@ -7549,7 +7549,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 3695,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0945",
@@ -7557,7 +7557,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 4382,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0946",
@@ -7565,7 +7565,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 9934,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0947",
@@ -7573,7 +7573,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 8059,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0948",
@@ -7581,7 +7581,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 8985,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0949",
@@ -7589,7 +7589,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 5301,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0950",
@@ -7597,7 +7597,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 3964,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0951",
@@ -7605,7 +7605,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 3687,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0952",
@@ -7613,7 +7613,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 1665,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0953",
@@ -7621,7 +7621,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 2432,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0954",
@@ -7629,7 +7629,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 6218,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0955",
@@ -7637,7 +7637,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 2548,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0956",
@@ -7645,7 +7645,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 8762,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0957",
@@ -7653,7 +7653,7 @@
     "location": "Kumo",
     "health": "Critical",
     "power": 6351,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0958",
@@ -7661,7 +7661,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 9468,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0959",
@@ -7669,7 +7669,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 1751,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0960",
@@ -7677,7 +7677,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 3572,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0961",
@@ -7685,7 +7685,7 @@
     "location": "Suna",
     "health": "Critical",
     "power": 7448,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0962",
@@ -7693,7 +7693,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 3617,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0963",
@@ -7701,7 +7701,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 903,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0964",
@@ -7709,7 +7709,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 3723,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0965",
@@ -7717,7 +7717,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 1411,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0966",
@@ -7725,7 +7725,7 @@
     "location": "Konoha",
     "health": "Critical",
     "power": 1046,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0967",
@@ -7733,7 +7733,7 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 5562,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0968",
@@ -7741,7 +7741,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 1316,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0969",
@@ -7749,7 +7749,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 8522,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0970",
@@ -7757,7 +7757,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 399,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0971",
@@ -7765,7 +7765,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 1616,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0972",
@@ -7773,7 +7773,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 5145,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0973",
@@ -7781,7 +7781,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 6460,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0974",
@@ -7789,7 +7789,7 @@
     "location": "Iwa",
     "health": "Injured",
     "power": 5552,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0975",
@@ -7797,7 +7797,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 8377,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0976",
@@ -7805,7 +7805,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 6859,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0977",
@@ -7813,7 +7813,7 @@
     "location": "Suna",
     "health": "Healthy",
     "power": 7026,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0978",
@@ -7821,7 +7821,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 3851,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0979",
@@ -7829,7 +7829,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2589,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0980",
@@ -7837,7 +7837,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 9287,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0981",
@@ -7845,7 +7845,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 8250,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0982",
@@ -7853,7 +7853,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 8913,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0983",
@@ -7861,7 +7861,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 7611,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0984",
@@ -7869,7 +7869,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 9820,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0985",
@@ -7877,7 +7877,7 @@
     "location": "Kiri",
     "health": "Critical",
     "power": 8699,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0986",
@@ -7885,7 +7885,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 7761,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0987",
@@ -7893,7 +7893,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 5977,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0988",
@@ -7901,7 +7901,7 @@
     "location": "Iwa",
     "health": "Healthy",
     "power": 9756,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0989",
@@ -7909,7 +7909,7 @@
     "location": "Iwa",
     "health": "Critical",
     "power": 9127,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0990",
@@ -7917,7 +7917,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 6461,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0991",
@@ -7925,7 +7925,7 @@
     "location": "Konoha",
     "health": "Injured",
     "power": 2693,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0992",
@@ -7933,7 +7933,7 @@
     "location": "Kumo",
     "health": "Healthy",
     "power": 4785,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0993",
@@ -7941,7 +7941,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 2215,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0994",
@@ -7949,7 +7949,7 @@
     "location": "Kiri",
     "health": "Healthy",
     "power": 7429,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0995",
@@ -7957,7 +7957,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 8005,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0996",
@@ -7965,7 +7965,7 @@
     "location": "Suna",
     "health": "Injured",
     "power": 5234,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0997",
@@ -7973,7 +7973,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 7966,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0998",
@@ -7981,7 +7981,7 @@
     "location": "Kiri",
     "health": "Injured",
     "power": 9844,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_0999",
@@ -7989,7 +7989,7 @@
     "location": "Kumo",
     "health": "Injured",
     "power": 9692,
-    "viewed": false
+    "viewed": true
   },
   {
     "id": "char_1000",
@@ -7997,6 +7997,6 @@
     "location": "Konoha",
     "health": "Healthy",
     "power": 9001,
-    "viewed": false
+    "viewed": true
   }
 ]
